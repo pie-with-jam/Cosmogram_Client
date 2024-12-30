@@ -74,12 +74,6 @@ messages.forEach { msg ->
 }
 ```
 
-## Структура проекта
-
-- `src/main/kotlin`: Основной код клиента.
-- `build.gradle.kts`: Файл сборки проекта.
-- `docs/_build/html`: Документация.
-
 ## Контакты
 
 Для вопросов и предложений: sv86747@gmail.com
